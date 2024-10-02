@@ -1,1 +1,1 @@
-docker run hello-world
+run hello-world
